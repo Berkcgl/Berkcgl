@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Berkcgl
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning BA at Marmara University and trying to learn C# 
+- 📫 How to reach me: fberk2002@gmail.com
